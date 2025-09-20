@@ -1,5 +1,7 @@
 # Sentiment Analysis on Spanish Movie Reviews
 
+[Full project version here](
+
 ## Overview
 This project performs **sentiment analysis** on Spanish movie reviews using both **lexicon-based approaches** and **supervised machine learning models**.  
 It explores the relationship between textual sentiment expressed in reviews and numerical movie ratings, analyzing how sentiment varies across different film genres.  
