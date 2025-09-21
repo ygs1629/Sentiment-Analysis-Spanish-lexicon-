@@ -18,17 +18,24 @@ The project compares **lexicon-based methods** with **supervised learning approa
 
 ---
 
-## Data 
-The dataset was provided in an **academic context** during my degree coursework.  
-Due to intellectual property restrictions, the raw data and access link are **not publicly available**.  
-The dataset consists of these variables:
-- Review text content  
-- Movie titles and genres  
-- Individual review titles  
-- Average film ratings  
-- Gender classification of films  
+##  Data
+The dataset was originally shared in an **academic context** by a university professor.  
+Due to **privacy and intellectual property restrictions**, the full dataset and its source cannot be disclosed.  
 
-The data was processed to extract **sentiment polarity** at both **individual review** and **movie aggregate** levels.
+For this project, I worked with a **stratified 20% sample by film genre**, ensuring representativeness across categories while preserving confidentiality.  
+
+The dataset consists of the following variables:
+- **Review text content**  
+- **Movie titles and genres**  
+- **Individual review titles**  
+- **Average film ratings**  
+- **Gender classification of films**  
+
+From this data, I extracted **sentiment polarity** at both:
+- The **individual review level**  
+- The **movie aggregate level**  
+
+This repository therefore focuses on the **analytical workflow, machine learning models, and insights**, which are transferable to other real-world datasets.
 
 ---
 
@@ -51,10 +58,11 @@ Models were evaluated using:
 ---
 
 ## Major Findings
-- **Weak Correlation**: Minimal linear relationship (-0.1) between sentiment polarity and numerical ratings  
-- **Genre Dependencies**: Sentiment-rating correlation varies significantly by genre (positive in adventure/romance, negative in drama/thriller)  
-- **Model Performance**: Logistic Regression achieved superior performance (**91.6% accuracy, Kappa = 0.807**) compared to Naïve Bayes (**77.3% accuracy, Kappa = 0.555**)  
-- **Lexicon Limitations**: Dictionary-based approach performed worse than random (**52.5% accuracy, negative Kappa**)  
+-**Weak Correlation**: A weak negative linear relationship (-0.28) was found between sentiment polarity and numerical ratings
+-**Genre Dependencies**: Sentiment distribution varies significantly by genre, with Drama showing substantial negative reviews linked to its thematic nature rather than quality
+-**Model Performance**: Naïve Bayes achieved superior performance (89.7% accuracy, Kappa = 0.784) compared to Logistic Regression (89.4% accuracy, Kappa = 0.773)
+-**Lexicon Limitations**: Dictionary-based approach performed marginally better than random (56.1% accuracy, Kappa = 0.064) but remained inadequate for reliable classification
+-**Qualitative Insights***: Word clouds revealed distinct vocabulary patterns between positive and negative reviews, with negative feedback focusing on narrative flaws while positive reviews emphasized technical aspects and humor
 
 ---
 
