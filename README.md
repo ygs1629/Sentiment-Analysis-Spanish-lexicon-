@@ -68,10 +68,10 @@ Models were evaluated using:
 
 ## Some Key Visual Takeaways 
 ### Models evaluation metrics
-![Models evaluation metrics](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/images/Comparaci%C3%B3n%20de%20m%C3%A9tricas%20por%20enfoque%20de%20clasificaci%C3%B3n.jpeg)
+![Model evaluation metrics comparison](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/images/Comparaci%C3%B3n%20de%20m%C3%A9tricas%20por%20enfoque%20de%20clasificaci%C3%B3n.jpeg)
 
 ### Polarization histogram:
-![Polarization histogram](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/images/Distribuci%C3%B3n%20de%20polaridad%20por%20g%C3%A9nero%20cinematogr%C3%A1fico.jpeg)
+![Histogram of polarization](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/images/Distribuci%C3%B3n%20de%20polaridad%20por%20g%C3%A9nero%20cinematogr%C3%A1fico.jpeg)
 ---
 
 ## 🛠️ Skills and Tools
