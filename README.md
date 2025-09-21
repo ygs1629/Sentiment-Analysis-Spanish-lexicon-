@@ -74,7 +74,7 @@ Models were evaluated using:
 ![Histogram of polarization](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/images/Distribuci%C3%B3n%20de%20polaridad%20por%20g%C3%A9nero%20cinematogr%C3%A1fico.jpeg)
 ---
 
-## 🛠️ Skills and Tools
+## Skills and Tools
 - **Programming**: R  
 - **Libraries**: tidyverse, tidytext, tm, syuzhet, caret, glmnet, wordcloud, ggplot2  
 - **NLP Techniques**: Tokenization, sentiment analysis, term-document matrices  
