@@ -61,7 +61,7 @@ Models were evaluated using:
 ## Some Key Visual Takeaways 
 ### Models evaluation metrics
 _Comparision between all models:_
-![Models evaluation metrics](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/Distribución%20de%20polaridad%20por%20género%20cinematográfico.jpeg?raw=true)
+![Models evaluation metrics](https://github.com/ygs1629/Sentiment-Analysis-Spanish-lexicon-/blob/main/images/Comparaci%C3%B3n%20de%20m%C3%A9tricas%20por%20enfoque%20de%20clase.jpeg)
 
 ### Polarization histogram:
 _Comparasion between all film genres:
