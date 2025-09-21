@@ -61,11 +61,11 @@ Models were evaluated using:
 ## Some Key Visual Takeaways 
 ### Models evaluation metrics
 _Comparision between all models:_
-![Models evaluation metrics]()
+![Models evaluation metrics](Distribución%20de%20polaridad%20por%20género%20cinematográfico.jpeg)
 
 ### Polarization histogram:
 _Comparasion between all film genres:
-![Polarization histogram]()
+![Polarization histogram](Comparación%20de%20métricas%20por%20enfoque%20de%20clase.jpeg)
 ---
 
 ## 🛠️ Skills and Tools
