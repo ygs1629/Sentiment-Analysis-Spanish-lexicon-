@@ -1,6 +1,6 @@
 # Sentiment Analysis on Spanish Movie Reviews
 
-[Full project version here](
+[Full project version here](https://ygs1629.github.io/Sentiment-Analysis-Spanish-lexicon-/)
 
 ## Overview
 This project performs **sentiment analysis** on Spanish movie reviews using both **lexicon-based approaches** and **supervised machine learning models**.  
