@@ -59,9 +59,13 @@ Models were evaluated using:
 
 ## Major Findings
 -**Weak Correlation**: A weak negative linear relationship (-0.28) was found between sentiment polarity and numerical ratings
+
 -**Genre Dependencies**: Sentiment distribution varies significantly by genre, with Drama showing substantial negative reviews linked to its thematic nature rather than quality
+
 -**Model Performance**: Naïve Bayes achieved superior performance (89.7% accuracy, Kappa = 0.784) compared to Logistic Regression (89.4% accuracy, Kappa = 0.773)
+
 -**Lexicon Limitations**: Dictionary-based approach performed marginally better than random (56.1% accuracy, Kappa = 0.064) but remained inadequate for reliable classification
+
 -**Qualitative Insights***: Word clouds revealed distinct vocabulary patterns between positive and negative reviews, with negative feedback focusing on narrative flaws while positive reviews emphasized technical aspects and humor
 
 ---
