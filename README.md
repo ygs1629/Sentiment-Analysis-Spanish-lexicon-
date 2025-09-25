@@ -87,4 +87,5 @@ Models were evaluated using:
 - **Data Processing**: Text cleaning, feature engineering, correlation analysis  
 
 ---
-**Note**: HTML in Spanish; description here is in English for international visibility and portfolio presentation. The graphics shown are all own-elaborated.
+**Note**: HTML in Spanish; description here is in English for international visibility and portfolio presentation. The graphics shown are all own-elaborated.This educational project extends a university assignment. The NLP techniques (learned at the university degree) and insights gained are broadly transferable to other text-based data applications.
+
